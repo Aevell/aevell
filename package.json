@@ -1,0 +1,1 @@
+{"name":"aevell","version":"1.0.0","private":true,"description":"Aevell parent company website","scripts":{"dev":"node server.mjs","build":"node build.mjs","start":"node server.mjs"},"engines":{"node":">=20"}}
